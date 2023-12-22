@@ -1,0 +1,4 @@
+1. collect info about statistic
+2. plan project architecture
+3. make web app to raise awareness of the stat and its reality
+
